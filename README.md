@@ -1,6 +1,6 @@
-npm install --force
-cd client
-npm install --force
+`npm install --force`
+`cd client`
+`npm install --force`
 cd server
 npm install express
 npm install async
